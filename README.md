@@ -17,11 +17,12 @@ This preserves confidentiality while enabling structured data collection.
 ---
 
 ## 📂 Repository Structure
-├── 00_Form.xlsx # Example of a SurveyCTO form design
-├── audio_test.wav # Sample audio with recorded DTMF tones
-├── 01_DTMF.py # Main decoder script
-├── 02_Commands.py # Example of additional CLI usage
-├── DTMF_Guide.pdf # Visual guide (6 steps to process audios)
+
+├── 00_Form.xlsx          # Example of a SurveyCTO form design
+├── audio_test.wav        # Sample audio with recorded DTMF tones
+├── 01_DTMF.py            # Main decoder script
+├── 02_Commands.py        # Example of additional CLI usage
+├── DTMF_Guide.pdf        # Visual guide (6 steps to process audios)
 └── README.md
 
 ## 💬 Ethical Note
