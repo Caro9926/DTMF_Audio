@@ -23,7 +23,7 @@ This preserves confidentiality while enabling structured data collection.
 ├── 00_Form.xlsx          # Example of a SurveyCTO form design
 ├── audio_test.wav        # Sample audio with recorded DTMF tones
 ├── 01_DTMF.py            # Main decoder script
-├── 02_Commands.py        # Example of additional CLI usage
+├── 02_Commands.py        # Commands for terminal in CMD or Visual Studio Code
 ├── DTMF_Guide.pdf        # Visual guide (6 steps to process audios)
 └── README.md
 ```
@@ -34,7 +34,7 @@ DTMF-based surveys can support ethical, anonymous, and secure data collection wh
 They allow respondents to participate without verbal disclosure, protecting their identity and comfort.
 However, these tools should complement, not replace, broader ethical safeguards such as informed consent, data protection, and contextual risk assessment.
 
-## 🙏Acknowledgments
+## 🙏 Acknowledgments
 
 Special thanks to the original authors of ribt/dtmf-decoder.
 This repository serves as a tutorial on how DTMF can be applied in phone-based surveys, especially in gender-sensitive research contexts.
