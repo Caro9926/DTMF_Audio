@@ -56,6 +56,10 @@ DTMF-based surveys can support ethical, anonymous, and secure data collection wh
 They allow respondents to participate without verbal disclosure, protecting their identity and comfort.
 However, these tools should complement, not replace, broader ethical safeguards such as informed consent, data protection, and contextual risk assessment.
 
+## 📄 License
+
+This project adapts code from [ribt/dtmf-decoder](https://github.com/ribt/dtmf-decoder). Please check and respect the original license.
+
 ## 🙏 Acknowledgments
 
 Special thanks to the original authors of ribt/dtmf-decoder.
