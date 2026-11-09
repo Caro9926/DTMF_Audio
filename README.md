@@ -27,6 +27,28 @@ This preserves confidentiality while enabling structured data collection.
 ├── DTMF_Guide.pdf        # Visual guide (6 steps to process audios)
 └── README.md
 ```
+## ⚙️ Installation
+
+Requires Python 3.8+.
+
+```bash
+git clone https://github.com/USUARIO/NOMBRE-REPO.git
+cd NOMBRE-REPO
+pip install numpy scipy matplotlib
+```
+
+## ▶️ Quick Start
+
+1. Record or export the call audio as `.wav`.
+2. Run the decoder on the sample file:
+
+```bash
+python 01_DTMF.py audio_test.wav
+```
+
+3. The script prints the detected keys (e.g., `1 2 1 3`), which map to the answer options defined in `00_Form.xlsx`.
+
+See `DTMF_Guide.pdf` for the full 6-step process.
 
 ## 💬 Ethical Note
 
